@@ -17,5 +17,6 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "morgan": "^1.10.0"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
